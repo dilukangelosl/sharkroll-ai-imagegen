@@ -1,0 +1,5 @@
+{
+  "name": "Game Portrait Generator",
+  "description": "A tool to convert landscape game thumbnails into clean, text-free portrait assets using Gemini AI, with automatic branding overlays.",
+  "requestFramePermissions": []
+}
