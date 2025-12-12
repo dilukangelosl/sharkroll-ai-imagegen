@@ -22,7 +22,7 @@ export interface AppSettings {
 }
 
 export const DEFAULT_SETTINGS: AppSettings = {
-  width: 1080,
-  height: 1920,
+  width: 140,
+  height: 188,
   enhancePrompt: "Remove all logos, text, and UI overlays from this game thumbnail. Recreate the scene to fit a vertical portrait format (9:16 aspect ratio). Extend the background seamlessly to fill the top and bottom. Center the main character or object. Maintain the original art style, color palette, and high-quality aesthetics. Do not add any text."
 };
