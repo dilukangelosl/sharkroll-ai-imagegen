@@ -107,7 +107,7 @@ const App: React.FC = () => {
       <div className="w-full md:w-1/3 lg:w-1/4 bg-slate-900 border-r border-slate-800 p-6 flex flex-col h-screen sticky top-0">
         <div className="flex items-center justify-between mb-6">
           <h1 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">
-            Portrait<span className="text-white">Gen</span>
+            Sharkroll Thumbnail<span className="text-white">Gen</span>
           </h1>
           <button 
             onClick={() => setIsSettingsOpen(true)}
